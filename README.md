@@ -44,11 +44,12 @@ Loading动画结束后一般会有三种情况：
 
 ### 终极方案 Loading
 Loading是一个轻量级，深度解耦的加载框架，完全由用户控制，只有一个Java文件，你甚至可以直接把这个文件源码拷贝到你的工程中使用。
+
 0. **演示**
 
 Activity|view|空状态|失败状态
 :---:|:---:|:---:|:---:
-<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624201852.gif?token=ACZ44YHOYSHDTZZBS3ZGDR25CC772" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624204201.gif?token=ACZ44YEWIFUAEIPRNYR6VHK5CDCVY" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624204724.gif?token=ACZ44YG2A4EPWG74XBRLKHC5CDDJY" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624205744.gif?token=ACZ44YF77Y23HME3GRR62C25CDEQQ" width="200" />
+<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624201852.gif" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624204201.gif" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624204724.gif" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624205744.gif" width="200" />
 1. 引入
 ```
 compile 'com.billy.android:gloading:1.0.0'
@@ -149,6 +150,8 @@ public final class Style {
 ```
 
 当然也可以直接写成全局常量，只要方便调用即可
+
+github传送门：[点这里](https://github.com/ansnail/Loading)
 
 ### 鸣谢
 此方案思路来自于 https://github.com/luckybilly/Gloading ，对原作者表示感谢
