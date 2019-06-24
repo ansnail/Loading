@@ -11,9 +11,6 @@ import java.util.Map;
 
 /**
  * @author yanjie
- * @version 1.0
- * @date 2019-04-28 18:11
- * @description
  */
 public class Loading {
     private static final Loading OUR_INSTANCE = new Loading();

@@ -6,7 +6,6 @@ import java.util.Locale;
  * @author yanjie
  * @version 1.0
  * @date 2019-05-09 16:40
- * @description
  */
 public class ImageFactory {
 

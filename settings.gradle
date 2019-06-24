@@ -1,1 +1,1 @@
-include ':app', ':loadinglibary'
+include ':app', ':loading'
