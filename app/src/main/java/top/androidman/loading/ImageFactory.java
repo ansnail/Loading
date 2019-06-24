@@ -1,4 +1,4 @@
-package com.chongding.loading;
+package top.androidman.loading;
 
 import java.util.Locale;
 

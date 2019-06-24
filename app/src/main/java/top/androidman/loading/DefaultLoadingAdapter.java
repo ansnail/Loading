@@ -1,4 +1,4 @@
-package com.chongding.loading;
+package top.androidman.loading;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -6,7 +6,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.chongding.loadinglibary.Loading;
+
+import top.androidman.loadinglibary.Loading;
 
 /**
  * @author yanjie
@@ -24,7 +25,7 @@ public class DefaultLoadingAdapter extends Loading.Adapter {
 
     @Override
     public View generateView(int viewType) {
-        View defaultLoadingView = LayoutInflater.from(mContext).inflate(R.layout.layout_default_loading_view,null);
+        View defaultLoadingView = LayoutInflater.from(mContext).inflate(R.layout.layout_default_loading_view, null);
         ImageView image = defaultLoadingView.findViewById(R.id.image);
         TextView text = defaultLoadingView.findViewById(R.id.text);
         int imageResource = -1;

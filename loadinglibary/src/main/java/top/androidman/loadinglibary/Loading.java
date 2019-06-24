@@ -1,4 +1,4 @@
-package com.chongding.loadinglibary;
+package top.androidman.loadinglibary;
 
 import android.app.Activity;
 import android.util.SparseArray;

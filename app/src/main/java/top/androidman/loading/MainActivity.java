@@ -1,11 +1,11 @@
-package com.chongding.loading;
+package top.androidman.loading;
 
 import android.databinding.DataBindingUtil;
 import android.graphics.drawable.Drawable;
+import android.os.Bundle;
 import android.os.Handler;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
@@ -14,8 +14,9 @@ import com.bumptech.glide.load.DataSource;
 import com.bumptech.glide.load.engine.GlideException;
 import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.target.Target;
-import com.chongding.loading.databinding.ActivityMainBinding;
-import com.chongding.loadinglibary.Loading;
+
+import top.androidman.loading.databinding.ActivityMainBinding;
+import top.androidman.loadinglibary.Loading;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,8 +1,8 @@
-package com.chongding.loading;
+package top.androidman.loading;
 
 import android.app.Application;
 
-import com.chongding.loadinglibary.Loading;
+import top.androidman.loadinglibary.Loading;
 
 
 /**
