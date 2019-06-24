@@ -28,6 +28,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation project(':loading')
+    implementation 'top.androidman.loading:loading:1.0.0'
     api 'com.github.bumptech.glide:glide:4.8.0'
 }

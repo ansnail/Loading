@@ -1,4 +1,4 @@
-package com.chongding.loadinglibary;
+package top.androidman.loading;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

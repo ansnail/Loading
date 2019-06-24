@@ -1,4 +1,4 @@
-package com.chongding.loadinglibary;
+package top.androidman.loading;
 
 import org.junit.Test;
 

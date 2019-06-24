@@ -1,4 +1,4 @@
-package top.androidman.loadinglibary;
+package top.androidman.loading;
 
 import android.app.Activity;
 import android.util.SparseArray;

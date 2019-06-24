@@ -51,6 +51,9 @@ Activity|view|空状态|失败状态
 :---:|:---:|:---:|:---:
 <img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624201852.gif" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624204201.gif" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624204724.gif" width="200" />|<img src="https://raw.githubusercontent.com/ansnail/tc/master/20190624205744.gif" width="200" />
 1. 引入
+
+[ ![Download](https://api.bintray.com/packages/androidman/maven/loading/images/download.svg?version=1.0.0) ](https://bintray.com/androidman/maven/loading/1.0.0/link)
+
 ```
 compile 'top.androidman.loading:loading:1.0.0'
 ```
